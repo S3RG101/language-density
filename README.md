@@ -17,4 +17,5 @@ Comparing the letter density of different languages using complete word dictiona
 ![image](https://github.com/S3RG101/language-density/assets/72516965/728602c1-2e4f-40dc-9296-313d62725306)
 # Final Results
 ![image](https://github.com/S3RG101/language-density/assets/72516965/1e4c6846-dcd1-45b2-b86f-9c7e63e10e85)
+
 The most "letter dense" language is the English for a small number of letters and french for a large number of letters.
